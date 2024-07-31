@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(blue, black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin-top: 50px;
+    
+  }
+  div{
+    border-radius: 10px;
+   background-color: rgb(18, 8, 155);
+  }
+  
+  h1 {
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+  }
+  label{
+    color: white;
+  }
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .btn-primary {
+    width: 100%;
+    color: blue;
+  }
+ button:hover{
+    background-color: gray;
+    color: white;
+ }
+  
